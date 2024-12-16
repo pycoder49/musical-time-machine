@@ -1,6 +1,6 @@
 # musical-time-machine
 
-Create a Spotify playlist in your account of the top 100 songs from the specified date.
+Creates a Spotify playlist of the top 100 songs from the specified date in your account.
 Obtains the top 100 songs through web-scraping BillBoard 100
 
 /.cache is a file containing the access token in JSON format
