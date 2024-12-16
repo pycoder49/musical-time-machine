@@ -3,6 +3,8 @@
 Creates a spotfiy playlist in your account of the top 100 songs from the specified date.
 Obtains the top 100 songs through web-scraping BillBoard 100
 
+/.cache is a file containing the access token in JSON format
+
 Current known issues:
 1) Problems with Spotipy API .search() method -- Does not always return desired results -- song is skipped and not added
 2) Mismatch in character encoding. Even though the title may look the same, their encodings might mismatch and cause the program to skip the song
