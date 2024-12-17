@@ -11,3 +11,7 @@ Current known issues:
 3) Different terminology between the program and official Spotify song titles:
    * \<song name> by \<song artist> could be \<song name> by <song artist 1, song artist 2> on Spotify, causing the program to skip
    * \<song name> by \<song artist> could be \<song name> (ft. \<song arist>) on Spotify, a mismatch in naming conventions
+
+Possible features:
+1) Allow the users to pick a genre
+2) Allow users to add a range of songs
