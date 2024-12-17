@@ -3,7 +3,7 @@
 Creates a Spotify playlist of the top 100 songs from the specified date in your account.
 Obtains the top 100 songs through web-scraping BillBoard 100
 
-* /.cache is a file containing the access token in JSON format
+* .cache is a file containing the access token in JSON format
 
 Current known issues:
 1) Problems with Spotipy API .search() method -- Does not always return desired results -- song is skipped and not added
